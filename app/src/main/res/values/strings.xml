@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">GoogleLibros</string>
+    <string name="instructions">Introduzca un nombre de libro o parte de un nombre de libro o simplemente un texto de un libro para encontrar El título completo del libro y quién escribió el libro!</string>
+    <string name="button_text">Buscar Libros</string>
+    <string name="input_hint">Introduzca un título de libro</string>
+    <string name="no_search_term">Introduzca un término de búsqueda</string>
+    <string name="no_network">Compruebe la conexión de red e inténtelo de nuevo</string>
+    <string name="no_results">No se han encontrado resultados</string>
+    <string name="loading">Cargando...</string>
+</resources>

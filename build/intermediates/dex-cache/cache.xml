@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_e04ba9502e31b57bf8d04668165d0cfb1a4d7ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_b8444e51775dbab60e711c45de75c76a47fe5f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0fd276ef5e4723c97f94e9bb8c96e30eb77290c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_bf95bee2c79150de265603f07c94d250b8985e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_9c6d965f90c659da6b4851db3e6100039650ae9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Gio\Desktop\GoogleLibros\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_b4b4b5fddbd6ecc7c211e56fc2684f2af4dbf523.jar" />
+    </item>
+
+</items>
